@@ -1,0 +1,4 @@
+The mapping for file: oi.txt is: 
+(cypher charact : original char)  
+{'e': 'E', 'r': 'T', 'o': 'A', 't': 'O', 'c': 'I', 'a': 'N', 'u': 'S', 'd': 'R', 's': 'H', 'n': 'D', 'i': 'L', 'l': 'U', 'f': 'C', 'v': 'M', 'm': 'F', 'p': 'Y', 'w': 'W', 'y': 'G', 'b': 'P', 'h': 'B'}
+URTWEHTIACEUGATOEETIINACHSLREAOPMIIRDONFSAEALEOATYTTTFEDTOESENMYDOABNONOLSIHREHEDAEOENSIAT
